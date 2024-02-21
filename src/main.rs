@@ -24,8 +24,6 @@ fn main() {
 
 fn print_usage_and_exit() {
     println!("USAGE (when in doubt, use a .png extension on your filenames)");
-    println!("blur INFILE OUTFILE");
-    println!("fractal OUTFILE");
+    println!("invert INFILE OUTFILE");
     std::process::exit(-1);
 }
-
