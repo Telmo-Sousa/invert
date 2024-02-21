@@ -1,5 +1,6 @@
 # invert
-My first project in Rust, it allows you to invert the colors of an image
+
+This Rust command-line application inverts the colors of an image file. It takes two arguments: the input file name and the output file name. The image crate is used to open and manipulate the image. The invert operation is supported.
 
 ## Project Demo
 
